@@ -1,3 +1,5 @@
 .terraform
-*.auto.tfvars
 *.backup
+secrets.*
+*.tfstate
+*.tfstate.*
